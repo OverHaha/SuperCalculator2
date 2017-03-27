@@ -181,7 +181,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
            /**
             public static void main(String[] args){
             //看看这个字符串 里面 有没有t
-            String str = "feitianbenyue";
+            String str = "feitianbenyue";   ‘
             String t = "t";
             System.out.println(-1 != str.indexOf(t));
             true
